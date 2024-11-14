@@ -1,1 +1,1 @@
-# HOUSE-RENT-APP-USING-MERN---Nan-Mudhavan-7th-Sem
+# HOUSE-RENT-APP-MERN-Nan-Mudhalvan-7th-Sem
